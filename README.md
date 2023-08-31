@@ -2,4 +2,5 @@
 
 ## This extension will help you to manage your time, you can set the timer, block some URLs and create to-do lists. 
 
-![Screenshot (87)](https://user-images.githubusercontent.com/77429149/147636756-cd1c4f81-1554-4c36-b67b-37f71c3042b9.png)
+
+![GITHUB](https://github.com/mikrokosmos2109/Productivity-Management-Extension-Project-by-Keerti-Lata/assets/77429149/da3ea7f6-f9c9-4d40-a10f-8488674bbbfa)
